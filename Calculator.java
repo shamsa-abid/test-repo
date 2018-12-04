@@ -1,8 +1,8 @@
 package test;
 
-public class Calculator {
+public class MyCalculator {
 
-	public int addTwoNumbers(int a, int b, Object newParam)
+	public int letsAddTwoNumbers(int a, int b, Object newParam)
 	{
 		return a + b;
 		
